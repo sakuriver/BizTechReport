@@ -37,3 +37,15 @@ https://support.microsoft.com/ja-jp/office/pivotby-%E9%96%A2%E6%95%B0-de86516a-9
 #### testing linking...
 
 https://support.microsoft.com/ja-jp/office/excel-%E3%83%97%E3%83%AD%E3%83%83%E3%83%88%E3%81%A8%E3%82%B0%E3%83%A9%E3%83%95%E3%81%A7-python-%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B-798b5e8d-ce45-4451-8da3-f269cdad5cff
+
+
+### 設定(setting)
+
+#### NoSqlチューニングの第２ステージ(nosql tuning second stage)
+
+##### 一つ目(first version)
+
+###### Access及びExcelによる中間システムの支援開発及びチュートリアルによる人口増加(access and excel system tutorial and supporting)
+
+
+
